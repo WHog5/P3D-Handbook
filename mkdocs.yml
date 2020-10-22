@@ -1,0 +1,12 @@
+site_name: Practical P3D Flight Handbook
+nav: 
+  - Home: index.md
+  - P3D Configuration: config.md
+  - Basic First Flight: 1stflight.md
+  - Instructions 1st Flight : instruct1.md
+  - Navigation Flight: 2ndflight.md
+  - 2nd Flight: instruct2.md
+  - Mooney Cockpit Layout: Mooney-cockpit.md
+  - Abbreviated CHECKLIST: abbrevChKLst.md
+theme: readthedocs  
+
